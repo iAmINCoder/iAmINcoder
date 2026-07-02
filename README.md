@@ -41,9 +41,9 @@ I am a passionate Android Developer focused on building seamless, high-performan
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iAmINCoder&show_icons=true&bg_color=121214&text_color=ffffff&icon_color=2CA5E0&title_color=ffffff&hide_border=true" alt="iAmINCoder's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iAmINCoder&show_icons=true&theme=dark&bg_color=121214&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAmINCoder&background=121214&stroke=ffffff&ring=2CA5E0&fire=2CA5E0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2CA5E0&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="iAmINCoder's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAmINCoder&background=121214&stroke=ffffff&ring=2CA5E0&fire=2CA5E0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2CA5E0&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
