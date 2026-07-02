@@ -6,7 +6,7 @@
   <a href="https://github.com/iAmINCoder">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/iAmINCoder">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
@@ -21,7 +21,7 @@ I am a passionate Android Developer focused on building seamless, high-performan
 - I am currently deep-diving into **Native C++ Rendering & Android UI Optimizations**.
 - I am looking to collaborate on **Open-source Android libraries**.
 - Ask me about **Android Development, Native Algorithms, and C++**.
-- How to reach me: You can DM me directly on [**Telegram**](https://t.me/YOUR_TELEGRAM_USERNAME).
+- How to reach me: You can DM me directly on [**Telegram**](https://t.me/iAmINCoder).
 - Fun fact: I believe a smooth 60fps UI is just as important as clean backend architecture!
 
 <img src="https://raw.githubusercontent.com/iAmINCoder/iAmINCoder/main/wave.gif" width="100%" height="2px" />
